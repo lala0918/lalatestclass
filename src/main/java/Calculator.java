@@ -7,6 +7,6 @@ public class Calculator {
         return a - b;
     }
 
-    public int multiply(int a, int b) { return -1; }
+    public int multiply(int a, int b) { a * b; }
 
 }
